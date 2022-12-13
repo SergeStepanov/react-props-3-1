@@ -1,0 +1,11 @@
+#root {
+  width: 85%;
+  margin: 0 auto;
+}
+
+/* Рейтинг фильмов */
+.card-body-stars {
+  list-style-type: none;
+  display: flex;
+  margin: 10px 0;
+}
